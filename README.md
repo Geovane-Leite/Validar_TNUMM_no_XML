@@ -8,12 +8,14 @@ O objetivo do script é ler um arquivo XML contendo informações da tabela TNUM
 ## Como Usar
 
 1. Faça o download do script deste repositório para o seu computadore;
+   
+3. Extrair o arquivo ZIP (todos os arquivos deve estar na mesma pasta);
 
-2. Execute o script 'TNUMM_PRESTADOR.exe';
+4. Execute o script 'TNUMM_PRESTADOR.exe';
 
-3. Selecione o XML que deseja validar;
+5. Selecione o XML que deseja validar;
 
-4. No final será exibido os erros na tela, como também um arquivo .csv na pasta do arquivo selecionado;
+6. No final será exibido os erros na tela, como também um arquivo .csv na pasta do arquivo selecionado.
 
 
 
