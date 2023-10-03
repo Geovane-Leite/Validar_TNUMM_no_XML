@@ -7,7 +7,7 @@ O objetivo do script é ler um arquivo XML contendo informações da tabela TNUM
 
 ## Como Usar
 
-1. Faça o download do script deste repositório para o seu computadore;
+1. Faça o download do script deste repositório para o seu computador;
    
 3. Extrair o arquivo ZIP (todos os arquivos deve estar na mesma pasta);
 
